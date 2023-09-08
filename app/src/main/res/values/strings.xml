@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="name">Name</string>
+    <string name="color1">Enter Color 1</string>
+    <string name="color2">Enter Color 2</string>
+    <string name="save">SAVE</string>
+    <string name="etName">Enter Name</string>
+    <string name="enter_number">Enter Number</string>
+</resources>
